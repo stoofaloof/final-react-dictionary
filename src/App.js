@@ -10,6 +10,7 @@ export default function App() {
           <p>Dictionary</p>
         </header>
         <Dictionary />
+        <br />
         <footer>
           Coded by Stephanie Chow // Open-sourced on{" "}
           <a
