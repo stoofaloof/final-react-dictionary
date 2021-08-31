@@ -15,6 +15,7 @@ export default function App() {
           <a
             href="https://github.com/stoofaloof/final-react-dictionary"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
