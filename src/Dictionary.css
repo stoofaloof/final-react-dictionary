@@ -1,0 +1,19 @@
+form {
+  padding: 0px 0px 40px 0px;
+}
+
+input {
+  background-color: black;
+  border-bottom-width: 3px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: white;
+
+  color: white;
+  width: 400px;
+}
+
+ul {
+  list-style: none;
+}
