@@ -10,9 +10,14 @@ input {
   border-right: none;
   border-color: white;
   color: white;
+  outline: none;
   width: 50%;
 }
 
 ul {
   list-style: none;
+}
+
+input :focus-within {
+  outline: none;
 }
