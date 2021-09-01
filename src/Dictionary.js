@@ -52,6 +52,7 @@ export default function Dictionary(props) {
           <input type="search" onChange={handleSearchword} autofocus />
         </form>
         <Results results={results} />
+        <br />
         <Photos photos={photos} />
       </div>
     );
