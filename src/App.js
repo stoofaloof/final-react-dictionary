@@ -6,10 +6,8 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
-          <p>Dictionary</p>
-        </header>
-        <Dictionary />
+        <header className="App-header">Input Search Word...</header>
+        <Dictionary default="philosophy" />
         <br />
         <footer>
           Coded by Stephanie Chow // Open-sourced on{" "}
